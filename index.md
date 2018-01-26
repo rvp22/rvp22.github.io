@@ -101,13 +101,13 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 
 
  Raghunath V P<br/>
- <div id="hide_email">
+ 
  Primary Email: <a href="mailto:raghuv7@vt.edu">raghuv7 at vt.edu</a>
  <br>
  Secondary Email: <a href="mailto:raghunathvp22@gmail.com">raghunathvp22 at gmail.com</a>
  <br>
  Phone: 408-504-5011
- </div>
+
 
 
         
@@ -116,8 +116,8 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
        title="Raghunath" alt="Raghunath"/>
        </a>
         
-    </div>
-</div>
+  </div>
+
 
 
 
