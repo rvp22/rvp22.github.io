@@ -65,19 +65,26 @@ Developed a lane detection and lane departure warning system aimed at increasing
 <h4>Time Series Modeling through Recurrent Neural Networks </h4>
 
 Investigated different RNN architectures in modeling stock exchange dataset drawn from Yahoo Finance. LSTM model was implemented in Python and trained using a TensorFlow backend through Google Compute Engine.
+
 <br> <br>
 
 <h4>Predicting NCAA Division-1 Basketball Tournament Brackets</h4>
 
 Won Inter Agile-pod competition within Optum to predict outcome of college basketball tournament through Machine Learning models. Came up with separate ML models to predict winner, winning and losing team scores, number of rebounds and turnovers for each team through crafty feature engineering and model selection
 
+<br> <br>
+
 <h4>Implementation and Analysis of an Efficient Gilbert Mixer</h4>
 
 Implemented and simulated Single balanced mixer and the Gilbert-cell mixer using NI AWR Design Environment Tool. A tuned load is used to improve the output swing achieved by the mixer and the Gilbert Mixer provides a improvement by a factor of 2 in Conversion Gain as compared to a single balanced mixer. The circuit was designed using the 0.35μm Bi-CMOS technology.
 
+<br> <br>
+
 <h4>Automation and Wheelchair control for Physically Challenged</h4>
 
 The project was fully funded as a part of Engineering Projects in Community Service design program of Purdue University and was aimed at reducing dependency of the target group for day to day activities. We designed and implemented a system for control of home appliances, doors and wheelchair through Arduino Microcontroller, Bluetooth module, servo and relays.
+
+<br> <br>
 
 <h4>Design of Electrocardiograph Circuit for Heart Rate Monitoring</h4>
 
@@ -112,8 +119,7 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 
         
   <a>
-       <img src="{{ BASE_PATH }}/assets/pics/raghu.jpg"
-       title="Raghunath" alt="Raghunath"/>
+       <img src="../assets/pics/raghu.jpg" alt="Raghunath" width="100" height="100">
        </a>
         
   </div>
