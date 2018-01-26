@@ -18,7 +18,7 @@ description: Raghunath Virginia Tech Resume
 <div class="about me">
 <h2><a name="about me"></a>about me</h2>
 
-<img src="assets/raghunath_small.jpg">
+<img src="assets/raghunath_small2.jpg" alt="Me!" align="middle">
 
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
