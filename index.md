@@ -21,7 +21,7 @@ description: Raghunath Virginia Tech Resume
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
 <br><br>
-I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. You can have a look at my updated resume <a href="{{ BASE_PATH }}/assets/raghunath_cv.pdf">here</a>.
+I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. My updated resume is available<a href="{{ BASE_PATH }}/assets/raghunath_cv.pdf">here</a>.
  
 </p>
 </div>
@@ -114,13 +114,10 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
  Secondary Email: <a href="mailto:raghunathvp22@gmail.com">raghunathvp22 at gmail.com</a>
  <br>
  Phone: 408-504-5011
-
-
-
-        
+     
   <a>
-       <img src="../assets/pics/raghu.jpg" alt="Raghunath" width="100" height="100">
-       </a>
+       <img src="https://github.com/rvp22/rvp22.github.io/blob/master/assets/raghu.jpg" alt="Raghunath" width="100" height="100">
+  </a>
         
   </div>
 
