@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raghunath
+title: 
 tagline: 
 description: Raghunath Virginia Tech Resume
 ---
@@ -13,8 +13,7 @@ description: Raghunath Virginia Tech Resume
       </ul>
   </div>
 </div>
-
-
-
 ---
+
+
 
