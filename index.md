@@ -18,6 +18,8 @@ description: Raghunath Virginia Tech Resume
 <div class="about me">
 <h2><a name="about me"></a>about me</h2>
 
+<img src="assets/raghu.jpg">
+
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
 <br><br>
@@ -104,7 +106,7 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact me"></a>contact</h4>
 
 
  Raghunath V P<br/>
@@ -114,12 +116,8 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
  Secondary Email: <a href="mailto:raghunathvp22@gmail.com">raghunathvp22 at gmail.com</a>
  <br>
  Phone: 408-504-5011
-     
-  <a>
-       <img src="https://github.com/rvp22/rvp22.github.io/blob/master/assets/raghu.jpg" alt="Raghunath" width="100" height="100">
-  </a>
-        
-  </div>
+          
+ </div>
 
 
 
