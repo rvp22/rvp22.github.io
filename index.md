@@ -108,7 +108,7 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 ---
 
 <div class="coursework">
-<h2><a name="course-work@VT"></a>coursework</h2>
+<h2><a name="course-work@VT"></a>coursework @ VT</h2>
 
 #### Fall 2017
 
