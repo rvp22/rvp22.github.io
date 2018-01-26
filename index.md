@@ -20,7 +20,7 @@ description: Raghunath Virginia Tech Resume
 
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
-
+<br><br>
 I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. You can have a complete look at my resume <a href="{{ BASE_PATH }}/assets/raghunath_cv.pdf">here</a>.
  
 </p>
