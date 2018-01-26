@@ -26,6 +26,8 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 </p>
 </div>
 
+---
+<br>
 <div class="work experience">
 <h4><a name="work experience"></a>work experience</h4>
 
