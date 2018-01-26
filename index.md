@@ -107,15 +107,16 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 </div>
 ---
 
-### <a name="current"></a>coursework @ VT
+<div class="coursework">
+<h2><a name="course-work@VT"></a>coursework</h2>
 
-### Fall 2017
+#### Fall 2017
 
--Computer Vision
+- Computer Vision
 - Advanced Machine Learning
 - Network Architecture and Protocols
 
-### Spring 2018
+#### Spring 2018
 
 - Advanced Parallel Computation
 - Electronic Design Automation
