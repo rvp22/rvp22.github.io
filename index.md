@@ -27,7 +27,7 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 </div>
 
 ---
-<br>
+
 <div class="work experience">
 <h4><a name="work experience"></a>work experience</h4>
 
@@ -37,11 +37,15 @@ I worked as an Applications Developer in the Data Science and Machine Learning t
 <br><br>
 This work lead to the development of models to identify future high-risk patients and to mitigate the risk through prior medical intervention. The models were disease specific and utilized medical and insurance domain knowledge as features used in prediction. 
 
+<br> 
+
 <h5>Research Assistant, Indian Institute of Science</h5>
 
 At IISc, I worked on unsupervised learning algorithms for image segmentation. The focus was on reducing the problems inherent in conventional methodologies such as the failure to overcome undesired locally optimum solutions and sensitivity to cluster centre initialization. 
 <br><br>
 This work lead to my first publication titled ‘Variance Based Moving K-Means’ in IEEE Advance Computing Conference 2017.
+
+<br>
 
 <h5>Research Assistant, National Institute of Technology, Warangal</h5>
 
