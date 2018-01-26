@@ -60,12 +60,12 @@ In Summer 2015, I was part of a team that worked on the design of an on-chip Low
 <h4>Vision Based Road Environment Mapping</h4>
 
 Developed a lane detection and lane departure warning system aimed at increasing vehicular autonomy as a part of course project for ECE 5554: Computer Vision. The drivable region was identified through road mapping using and vehicle detection was done through a CNN with an external region proposal network. The CNN was trained on CIFAR 10 dataset and fine-tuned further on additional car images used for vehicle detection. 
-<br>
+<br> <br>
 
 <h4>Time Series Modeling through Recurrent Neural Networks </h4>
 
 Investigated different RNN architectures in modeling stock exchange dataset drawn from Yahoo Finance. LSTM model was implemented in Python and trained using a TensorFlow backend through Google Compute Engine.
-
+<br> <br>
 
 <h4>Predicting NCAA Division-1 Basketball Tournament Brackets</h4>
 
@@ -101,7 +101,7 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 
         <div class="span2">
         <a>
-            <img src="../assets/pics/raghu.jpg"
+            <img src="{{ BASE_PATH }}/assets/pics/raghu.jpg"
                   title="Raghunath" alt="Raghunath"/></a>
         </div>
     </div>
