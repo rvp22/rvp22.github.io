@@ -110,23 +110,25 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 <div class="coursework">
 <h2><a name="course-work@VT"></a>coursework @ VT</h2>
 
-#### Fall 2017
+<h4>Fall 2017</h4>
 
-- Computer Vision
-- Advanced Machine Learning
-- Network Architecture and Protocols
+<ul style="list-style-type:disc">
+  <li>Computer Vision</li>
+  <li>Advanced Machine Learning</li>
+  <li>Network Architecture and Protocols</li>
+</ul>  
 
-#### Spring 2018
+<h4>Spring 2018</h4>
 
-- Advanced Parallel Computation
-- Electronic Design Automation
-- Virtual Environments
-- Digital System Verification
-
-
-
-
+<ul style="list-style-type:disc">
+  <li>Advanced Parallel Computation</li>
+  <li>Electronic Design Automation</li>
+  <li>Virtual Environments</li>
+  <li>Digital System Verification</li>
+</ul>  
+</div>
 ---
+
 <div class="container">
 <h2><a name="contact me"></a>contact</h2>
 
