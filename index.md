@@ -107,8 +107,27 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 </div>
 ---
 
+### <a name="current"></a>coursework @ VT
+
+### Fall 2017
+
+-Computer Vision
+- Advanced Machine Learning
+- Network Architecture and Protocols
+
+### Spring 2018
+
+- Advanced Parallel Computation
+- Electronic Design Automation
+- Virtual Environments
+- Digital System Verification
+
+
+
+
+---
 <div class="container">
-<h4><a name="contact me"></a>contact</h4>
+<h2><a name="contact me"></a>contact</h2>
 
 
  Raghunath V P<br/>
