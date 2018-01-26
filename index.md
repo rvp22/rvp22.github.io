@@ -71,6 +71,18 @@ Investigated different RNN architectures in modeling stock exchange dataset draw
 
 Won Inter Agile-pod competition within Optum to predict outcome of college basketball tournament through Machine Learning models. Came up with separate ML models to predict winner, winning and losing team scores, number of rebounds and turnovers for each team through crafty feature engineering and model selection
 
+<h4>Implementation and Analysis of an Efficient Gilbert Mixer</h4>
+
+Implemented and simulated Single balanced mixer and the Gilbert-cell mixer using NI AWR Design Environment Tool. A tuned load is used to improve the output swing achieved by the mixer and the Gilbert Mixer provides a improvement by a factor of 2 in Conversion Gain as compared to a single balanced mixer. The circuit was designed using the 0.35μm Bi-CMOS technology.
+
+<h4>Automation and Wheelchair control for Physically Challenged</h4>
+
+The project was fully funded as a part of Engineering Projects in Community Service design program of Purdue University and was aimed at reducing dependency of the target group for day to day activities. We designed and implemented a system for control of home appliances, doors and wheelchair through Arduino Microcontroller, Bluetooth module, servo and relays.
+
+<h4>Design of Electrocardiograph Circuit for Heart Rate Monitoring</h4>
+
+Design, Multisim simulation and hardware implementation of a heart-beat measuring circuit. Developed as a part of Electronic Instrumentation course project in Instrumentation Lab, ECE in National Institute of Technology Warangal.
+
 </div>
 ---
 <div class="publication">
@@ -87,23 +99,23 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <div class="contact">
-        <div class="span5">
-            Raghunath V P<br/>
-            <div id="hide_email">
-            Primary Email: <a href="mailto:raghuv7@vt.edu">raghuv7 at vt.edu</a>
-            <br>
-            Secondary Email: <a href="mailto:raghunathvp22@gmail.com">raghunathvp22 at gmail.com</a>
-            <br>
-            Phone: 408-504-5011
-            </div>
-        </div>
 
-        <div class="span2">
-        <a>
-            <img src="{{ BASE_PATH }}/assets/pics/raghu.jpg"
-                  title="Raghunath" alt="Raghunath"/></a>
-        </div>
+ Raghunath V P<br/>
+ <div id="hide_email">
+ Primary Email: <a href="mailto:raghuv7@vt.edu">raghuv7 at vt.edu</a>
+ <br>
+ Secondary Email: <a href="mailto:raghunathvp22@gmail.com">raghunathvp22 at gmail.com</a>
+ <br>
+ Phone: 408-504-5011
+ </div>
+
+
+        
+  <a>
+       <img src="{{ BASE_PATH }}/assets/pics/raghu.jpg"
+       title="Raghunath" alt="Raghunath"/>
+       </a>
+        
     </div>
 </div>
 
