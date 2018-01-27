@@ -20,7 +20,7 @@ description: Raghunath Virginia Tech Resume
 
 <p style="text-align:center;"><img src="assets/raghunath_small2.jpg" alt="Me!" align="middle"></p>
 
-<br><br>
+<br>
 
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
@@ -35,7 +35,7 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 <div class="work experience">
 <h2><a name="work experience"></a>work experience</h2>
 
-<h4>Applications Developer, United Health Group</h4>
+<h4>Applications Developer, Optum, United Health Group</h4>
 
 I worked as an Applications Developer in the Data Science and Machine Learning team. I implemented PoCs on the application of exploratory data analysis and ML models on US health-insurance claims data.
 <br><br>
@@ -43,7 +43,7 @@ This work lead to the development of models to identify future high-risk patient
 
 <br> <br>
 
-<h4>Research Assistant, Indian Institute of Science</h4>
+<h4>Research Assistant <br> Computational Intelligence Lab, Indian Institute of Science</h4>
 
 At IISc, I worked on unsupervised learning algorithms for image segmentation. The focus was on reducing the problems inherent in conventional methodologies such as the failure to overcome undesired locally optimum solutions and sensitivity to cluster centre initialization. 
 <br><br>
@@ -51,7 +51,7 @@ This work lead to my first publication titled â€˜Variance Based Moving K-Meansâ€
 
 <br><br>
 
-<h4>Research Assistant, National Institute of Technology, Warangal</h4>
+<h4>Research Assistant<br> Mixed Signals Design Lab,National Institute of Technology, Warangal</h4>
 
 In Summer 2015, I was part of a team that worked on the design of an on-chip Low Dropout Voltage regulator with improved transient response to signal variations. The focus of my work was in chip layout and routing.
 
