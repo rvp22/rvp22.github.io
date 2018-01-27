@@ -51,7 +51,7 @@ This work lead to my first publication titled â€˜Variance Based Moving K-Meansâ€
 
 <br><br>
 
-<h4>Research Assistant<br> Mixed Signals Design Lab,National Institute of Technology, Warangal</h4>
+<h4>Research Assistant<br> Mixed Signals Design Lab, National Institute of Technology, Warangal</h4>
 
 In Summer 2015, I was part of a team that worked on the design of an on-chip Low Dropout Voltage regulator with improved transient response to signal variations. The focus of my work was in chip layout and routing.
 
