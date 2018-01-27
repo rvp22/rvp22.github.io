@@ -10,7 +10,7 @@ description: Raghunath Virginia Tech Resume
           <li><a href="{{ BASE_PATH }}/assets/raghunath_cv.pdf">cv</a></li>
           <li><a href="https://github.com/rvp22">github</a></li>
           <li><a href="https://www.linkedin.com/in/raghunath-v-p-39a26091/g">linkedin</a></li>
-          <li><a href="https://github.com/rvp22/rvp22.github.io/blob/master/index.md#contact">contact me</a></li>
+          <li><a href="#contact_me">contact me</a></li>
       </ul>
   </div>
 </div>
@@ -131,7 +131,7 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 ---
 
 <div class="container">
-<h2><a name="contact me"></a>contact</h2>
+<h2><a name="contact_me"></a>contact me</h2>
 
 
  Raghunath V P<br/>
