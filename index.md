@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 
+title: Raghunath VP
 tagline: 
-description: Raghunath Virginia Tech Resume
+description: Raghunath VP Linkedin Virginia Tech Resume
 ---
 <div class="navbar">
   <div class="navbar-inner">
