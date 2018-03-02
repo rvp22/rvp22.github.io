@@ -123,9 +123,9 @@ ArXiv Link : <a href="https://arxiv.org/abs/1704.02197">https://arxiv.org/abs/17
 
 <ul style="list-style-type:disc">
   <li>Advanced Parallel Computation</li>
-  <li>Electronic Design Automation</li>
   <li>Virtual Environments</li>
-  <li>Digital System Verification</li>
+  <li>Advanced Computer Architecture</li>
+
 </ul>  
 </div>
 ---
