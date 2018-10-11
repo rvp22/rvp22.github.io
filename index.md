@@ -42,7 +42,7 @@ Working as a summer and Fall intern at Nokia, DX Group since May 2018. My work f
 
 <br> <br>
 
-<h4>Applications Developer, Optum, United Health Group</h4>
+<h4>Applications Developer, Optum, United Health Group, Bangalore</h4>
 
 I worked as an Applications Developer in the Data Science and Machine Learning team. I implemented PoCs on the application of exploratory data analysis and ML models on US health-insurance claims data.
 <br><br>
@@ -50,7 +50,7 @@ This work lead to the development of models to identify future high-risk patient
 
 <br> <br>
 
-<h4>Research Assistant <br> Computational Intelligence Lab, Indian Institute of Science</h4>
+<h4>Research Assistant <br> Computational Intelligence Lab, Indian Institute of Science, Bangalore</h4>
 
 At IISc, I worked on unsupervised learning algorithms for image segmentation. The focus was on reducing the problems inherent in conventional methodologies such as the failure to overcome undesired locally optimum solutions and sensitivity to cluster centre initialization. 
 <br><br>
