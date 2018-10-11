@@ -36,6 +36,10 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 <div class="work experience">
 <h2><a name="work experience"></a>work experience</h2>
 
+<h4>Data Scientist Co-op, Nokia (Digital Xperience Labs), Austin</h4>
+
+<br> <br>
+
 <h4>Applications Developer, Optum, United Health Group</h4>
 
 I worked as an Applications Developer in the Data Science and Machine Learning team. I implemented PoCs on the application of exploratory data analysis and ML models on US health-insurance claims data.
