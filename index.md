@@ -24,7 +24,7 @@ description: Raghunath VP Linkedin Virginia Tech Resume
 <br>
 
 <p align="justify">
-I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
+I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence. I am currently doing a Fall semester internship and working as a Co-op Data Scientist in the Digital Experience team at Nokia, Austin.
 <br><br>
 I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. My updated resume is available <a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP_.pdf">here</a>.
  
