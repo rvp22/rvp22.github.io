@@ -7,7 +7,7 @@ description: Raghunath VP Linkedin Virginia Tech Resume
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP_.pdf">cv</a></li>
           <li><a href="https://github.com/rvp22">github</a></li>
           <li><a href="https://www.linkedin.com/in/raghunath-v-p-39a26091/g">linkedin</a></li>
           <li><a href="#contact_me">contact me</a></li>
@@ -26,7 +26,7 @@ description: Raghunath VP Linkedin Virginia Tech Resume
 <p align="justify">
 I am a Master's student in Computer Engineering at Virginia Tech. My area of interest at VT is Software and Machine Intelligence.
 <br><br>
-I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. My updated resume is available <a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP.pdf">here</a>.
+I graduated with a Bachelor's Degree in Electronics and Communication Engineering from National Institute of Technology - Warangal, India in 2016. After graduation, I worked for one year as an Applications Developer in the Machine Learning and Data Science team at United Health Group, Bangalore. In the past I have done a summer internship in the Computational Intelligence Lab at Indian Institute of Science, Bangalore where I worked on clustering algorithms with a focus on image processing. My updated resume is available <a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP_.pdf">here</a>.
  
 </p>
 </div>
@@ -36,7 +36,7 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 <div class="work experience">
 <h2><a name="work experience"></a>work experience</h2>
 
-<h4>Data Scientist Co-op, Nokia Software (Digital Xperience Labs), Austin</h4>
+<h4>Data Scientist Co-op, Nokia Software (Digital Experience Labs), Austin</h4>
 
 Working as a summer and Fall intern at Nokia, DX Group since May 2018. My work focuses on the intersection of device simulation and machine learning for NB-IoT sensors. One of the projects that I am currently working on is in prediction of End of Life stage for long life Li-ion batteries in embedded IoT devices based on communication patterns and physical environmental characteristics of the device. 
 
