@@ -38,7 +38,7 @@ I graduated with a Bachelor's Degree in Electronics and Communication Engineerin
 
 <h4>Data Scientist Co-op, Nokia Software (Digital Experience Labs), Austin</h4>
 
-Working as a summer and Fall intern at Nokia, DX Group since May 2018. My work focuses on the intersection of device simulation and machine learning for NB-IoT sensors. One of the projects that I am currently working on is in prediction of End of Life stage for long life Li-ion batteries in embedded IoT devices based on communication patterns and physical environmental characteristics of the device. 
+Working as a summer and Fall intern at Nokia, DX Group since May 2018. My work focuses on the intersection of device simulation and machine learning for NB-IoT sensors. 
 
 <br> <br>
 
