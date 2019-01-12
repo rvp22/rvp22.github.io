@@ -9,7 +9,7 @@ description: Raghunath VP Linkedin Virginia Tech Resume
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Resume__RaghunathVP_.pdf">cv</a></li>
           <li><a href="https://github.com/rvp22">github</a></li>
-          <li><a href="https://www.linkedin.com/in/raghunath-v-p-39a26091/g">linkedin</a></li>
+          <li><a href="https://www.linkedin.com/in/raghunathvp">linkedin</a></li>
           <li><a href="#contact_me">contact me</a></li>
       </ul>
   </div>
