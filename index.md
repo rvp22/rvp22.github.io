@@ -2,7 +2,7 @@
 layout: default
 title: Raghunath VP
 tagline: 
-description: Raghunath VP Linkedin Virginia Tech Resume
+description: Raghunath VP Linkedin Virginia Tech Resume Raghunath Vadakkan Purushotham 
 ---
 <div class="navbar">
   <div class="navbar-inner">
